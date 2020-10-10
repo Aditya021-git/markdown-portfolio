@@ -1,1 +1,3 @@
-Replace this with a list of your favorite things.
+Some things I like:
+1. Volleyball
+2. Football
